@@ -1,7 +1,7 @@
 
 public class Test {
 	Test() {
-		//TEST�Դϴ�"
+		//TEST입니다"
 		String a = "";
 		System.out.println(a);
 		
