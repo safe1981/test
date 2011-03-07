@@ -1,6 +1,7 @@
 
 public class Test {
 	Test() {
+		//TEST¿‘¥œ¥Ÿ"
 		String a = "";
 		System.out.println(a);
 		
